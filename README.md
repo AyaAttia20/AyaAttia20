@@ -21,7 +21,7 @@ I am a passionate Machine Learning Engineer and Data Scientist with a strong bac
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/AyaAttia20" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aya-attia-ai22" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>st-performing model selection.
-- ![Screenshot 2024-09-25 171102](https://github.com/user-attachments/assets/17a891b1-3729-4a4d-b49c-fe9596e34d86)
+
 
   
 ### [Airbnb Listing EDA](https://github.com/AyaAttia20/Airbnb_Chicago_EDA)  (Aug 2023 - Aug 2023)
