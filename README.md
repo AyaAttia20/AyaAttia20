@@ -23,48 +23,6 @@ I am a passionate Machine Learning Engineer and Data Scientist with a strong bac
 <p align="left"> <a href="https://www.github.com/AyaAttia20" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aya-attia-ai22" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>st-performing model selection.
 
 
-  
-### [Airbnb Listing EDA](https://github.com/AyaAttia20/Airbnb_Chicago_EDA)  (Aug 2023 - Aug 2023)
-- Conducted exploratory data analysis on Chicago Airbnb listings.
-- Executed data cleaning, transformation, and visualization using Python.
--![Screenshot 2024-09-25 171333](https://github.com/user-attachments/assets/c29b64b4-c2dd-4e1b-9300-47bc05656d09)
-
-### [Automated Exploratory Data Analysis](https://edaproject-nslkpbdjpr8yywoxbqfivg.streamlit.app/)  (Aug 2023 - Aug 2023)
-- Developed an automated EDA tool using Streamlit in Python.
-- Implemented dynamic data preprocessing and visualization.
-- ![Screenshot 2024-09-25 171649](https://github.com/user-attachments/assets/6adc6bb9-b6e7-41b2-b404-8ef7a7d2a34b)
-
-  
-### [Investigate a Dataset](https://github.com/AyaAttia20/-Investigate-a-Dataset-Database_No_show_appointments-)  ( Feb 2023 - Feb 2023)
-- Analyzed medical appointment dataset from Brazil using Python.
-- Conducted data cleaning, exploratory analysis, and statistical assessment.
-- ![Screenshot 2024-09-25 172216](https://github.com/user-attachments/assets/24f64806-1414-4801-af4f-69090d824363)
-
-
-### [Explore US Bikeshare Data](https://github.com/AyaAttia20/-Explore-US-Bikeshare-Data)   (Jan 2023 - Jan 2023)
-- Performed EDA on bike share systems in Chicago, New York City, and Washington.
-- Utilized Python for data filtering, aggregation, and visualization.
--  ![Screenshot 2024-09-25 172431](https://github.com/user-attachments/assets/6ddf6a65-f42c-4d9e-b930-cf37de6420ae)
-
-
-## ⚙️ Technical Skills:
-   Python, SQL,Scikit-learn, PyCaret, TensorFlow , Pandas, NumPy, Matplotlib, Seaborn.
-   
-## 💻 Tools & Frameworks :
-  Power BI, Tableau,Excel,Jupyter Notebook, Visual Studio Code, Streamlit.
-
-## 📒 Certifications and Courses
-
-### 🏆 Certifications
-- Data Analysis Professional Nanodegree    [Certificate](https://www.udacity.com/certificate/e/2952137e-8a9c-11ed-9c2e-67064310345f)
-
-
-
-### ✍️ Courses
-- Python Programming Master              [Certificate](https://alcamp.electropi.ai/certifcate/1048C)
-- Exploratory Data Analysis              [Certificate](https://alcamp.electropi.ai/certifcate/104F0)
-- Supervised Learning Foundation         [Certificate](https://alcamp.electropi.ai/certifcate/10554)
-- Unsupervised Learning Foundation       [Certificate](https://alcamp.electropi.ai/certifcate/105B8)
 
 # Contact Me
 ![image](https://github.com/user-attachments/assets/601d9d60-c687-4bee-970c-27bcc5f850b3)[LinkedIn Profile](https://www.linkedin.com/in/aya-attia-data-analyst)
